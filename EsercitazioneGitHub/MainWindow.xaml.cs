@@ -29,5 +29,15 @@ namespace EsercitazioneGitHub
         {
             MessageBox.Show("CIAO");
         }
+
+        private void Button_Click1(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("CIAO");
+        }
+
+        private void Button_Click2(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("CIAO");
+        }
     }
 }
